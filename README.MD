@@ -5,4 +5,4 @@
 
 3. К третьему семинару (без п.2.1* и 6*): [sem_03](https://github.com/dmitry-40in/net/tree/main/sem_03)
 
-4. К третьему семинару: [sem_04](https://github.com/dmitry-40in/net/tree/main/sem_04)
+4. К четвертому семинару: [sem_04](https://github.com/dmitry-40in/net/tree/main/sem_04)
