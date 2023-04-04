@@ -12,3 +12,5 @@
 6. К шестому семинару: [sem_06](https://github.com/dmitry-40in/net/tree/main/sem_06)
 
 7. К седьмому семинару: [sem_07](https://github.com/dmitry-40in/net/tree/main/sem_07)
+
+8. К восьмому семинару: [sem_08](https://github.com/dmitry-40in/net/tree/main/sem_08)
